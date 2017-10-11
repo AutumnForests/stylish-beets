@@ -1,4 +1,4 @@
-body {
+html {
   background-color: #c9b5ab;
   line-height: 1.5;
 }
@@ -17,10 +17,12 @@ figcaption {
 
 main {
   font-size: 0.8rem;
+  font-weight: normal;
   color: #222;
 }
 
 a,
 a:hover {
   color: #3f1622;
+  text-decoration: underline;
 }

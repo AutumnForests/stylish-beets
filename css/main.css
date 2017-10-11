@@ -16,7 +16,7 @@ figcaption {
   font-style: italic;
 }
 
-ol > a {
+a {
   font-size: .8rem;
   text-decoration: underline;
   font-family: "PT Serif", serif;

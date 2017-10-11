@@ -12,12 +12,13 @@ header {
 figcaption {
   font-family: "PT Serif", serif;
   font-size: 1.125rem;
-  color: #8f2440;
+  font-style: italic;
 }
 
 a {
   text-decoration: underline;
   font-family: "PT Serif", serif;
+  color: #8f2440;
 }
 
 img {

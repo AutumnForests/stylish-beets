@@ -16,6 +16,7 @@ figcaption {
 }
 
 a {
+  text-decoration: underline;
   font-family: "PT Serif", serif;
 }
 
@@ -31,6 +32,5 @@ main {
 
 a:hover {
   color: #3f1622;
-  text-decoration: underline;
   list-style-type: square;
 }

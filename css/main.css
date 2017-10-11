@@ -45,4 +45,5 @@ a:hover {
   text-decoration: underline;
   color: #3f1622;
   list-style-type: square;
+  font-weight: bold;
 }

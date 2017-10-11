@@ -19,3 +19,8 @@ main {
   font-size: 0.8rem;
   color: #222;
 }
+
+a,
+a:hover {
+  color: #3f1622;
+}

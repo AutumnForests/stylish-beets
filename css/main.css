@@ -16,13 +16,13 @@ figcaption {
 }
 
 main {
-  font-size: 0.8rem;
+  font-size: .8rem;
   font-weight: normal;
   color: #222;
 }
 
-a,
 a:hover {
   color: #3f1622;
   text-decoration: underline;
+  list-style-type: square;
 }

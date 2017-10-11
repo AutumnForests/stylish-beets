@@ -15,6 +15,10 @@ figcaption {
   color: #8f2440;
 }
 
+a {
+  font-family: "PT Serif", serif;
+}
+
 img {
   width: 100%;
 }

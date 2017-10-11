@@ -7,6 +7,7 @@ header {
   font-family: "PT Sans", sans-serif;
   font-size: .8rem;
   color: #3f1622;
+  font-weight: bold;
 }
 
 figcaption {
@@ -16,9 +17,11 @@ figcaption {
 }
 
 a {
+  font-size: .8rem;
   text-decoration: underline;
   font-family: "PT Serif", serif;
   color: #8f2440;
+  font-weight: bold;
 }
 
 blockquote {

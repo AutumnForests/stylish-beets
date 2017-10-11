@@ -16,7 +16,7 @@ figcaption {
   font-style: italic;
 }
 
-a {
+ol > a {
   font-size: .8rem;
   text-decoration: underline;
   font-family: "PT Serif", serif;
@@ -45,5 +45,4 @@ a:hover {
   text-decoration: underline;
   color: #3f1622;
   list-style-type: square;
-  font-weight: bold;
 }
